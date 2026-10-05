@@ -1,0 +1,45 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Experiment outputs
+ckpt*/
+checkpoint*/
+save*/
+runs/
+logs/
+*.log
+
+# Data
+data/
+dataset/
+datasets/
+*.npz
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
